@@ -1,0 +1,24 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  background-color: #84d3c3;
+  font-weight: lighter;
+  font-size: 20px;
+    border: 1px solid white;
+  }
+
+h1 {
+  line-height: 1.5em;
+  font-size: 60px;
+  padding:1em;
+  margin-bottom: 0.25em;
+
+}
+h2 {
+  color: navy;
+
+}
+img {
+  border-radius: 8px;
+  height: 4em;
+}
